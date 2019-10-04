@@ -1,0 +1,24 @@
+* {margin: 50px;}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: hotpink;
+}
+
+section {
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+
+article{
+    width: 50%;
+    height: 100px;
+    background: yellowgreen;
+}
+aside, footer {
+    width: 100%;
+    height: 100px;
+    background-color: green;
+}
